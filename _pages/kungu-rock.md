@@ -4,6 +4,7 @@ title:  "Kungu Rock"
 date:   2020-05-31 07:00:00 +0100
 eventDate: 1966
 advertise: true
+category: MOTOC
 ---
 
 I was never a good rock climber although I enjoyed trying. 
