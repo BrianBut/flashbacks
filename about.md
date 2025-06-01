@@ -8,6 +8,6 @@ This site is part of my self prescribed therapy. My idea was to write down a ple
 
 After the fourth memory it was apparent that many my good memories often had a sting in the tail. e.g the unjustness of the Bantustans, of the abducted child soldiers of the Chimerenga war, or the loss of all the big tuskers from Murchison Park, or the hostility of a few Muslem clergy. So now I think I will recount any memories, good or bad. It will still do me good. But perhaps not yet for the most painful ones.
 
-If any of my family or friends want to write down their own reminiscences. I will happily enable them to publish them on a site like this.
+If any of my family or friends want to write down their own reminiscences. I will happily help them publish their stories on a site like this.
 
 <brianjbutcher65@gmail.com>
