@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body> 
+    {% include header.html %}
+    <nav class="w3-bar w3-border w3-light-grey">
+        <a href="/" class="w3-bar-item w3-button"><b>Home</b></a>
+        <a href="/birds.html" class="w3-bar-item w3-button"><b>Birds of Debre Birhan</b></a>
+        <a href="/about-bodb.html" class="w3-bar-item w3-button w3-right"><b>About Birds of DB</b></a>
+    </nav>
+    
+    <div class="w3-container">
+        {{ content }}
+    </div>
+    {% include footer.html %}
+
+  </body>
+
+</html>

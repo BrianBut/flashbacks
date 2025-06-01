@@ -1,0 +1,53 @@
+---
+layout: bodb
+---
+
+<div class="w3-container">
+  <h1>{{ page.title }} 
+    <small>(<em>{{ page.genus }} {{ page.species }}</em>)</small>
+  </h1>
+  
+  {% if page.aka %}
+    <h2>aka: {{ page.aka }}</h2>
+  {% endif %}
+  </div>
+
+  {% if page.size %}
+    <div style="text-indent: 10%"><p>Size: {{ page.size }}</div>
+  {% endif %}
+
+  {% if page.imagelist %}
+    {% assign imcount = 0 %}
+    {% for imno in page.imagelist %}
+      {% assign imcount = imcount | plus: 1 %}
+      {% assign lflag = imcount | modulo:3 %}
+      {% if lflag == 1 %}
+    <div class="w3-row w3-margin">
+      {% endif %}
+      {% include formattedimage.html imno=imno %}
+    {% endfor %}
+    </div>
+  {% endif %}
+
+  {% if page.imagestr %}
+    {% assign imgitems = page.imagestr | split: "," %}
+    {% assign lcount = 0 %}
+    <div class="w3-row w3-margin">
+    {% for line in imgitems %}
+      {% assign birdline = line | split: "$" %}
+      {% assign imno = birdline[0] %}
+      {% if birdline[1] %}
+        {% assign lcount = lcount | modulo3 %}
+        {% if lcount == 0 %}
+    </div>
+    <div class="w3-row w3-margin">
+        {% endif %}
+        <h4> {{ birdline[1] }}</h4>
+      {% endif %}    
+      {% include formattedimage.html imno=imno %}
+    {% endfor %}
+    </div>
+  {% endif %}
+
+  {{ content }}
+
