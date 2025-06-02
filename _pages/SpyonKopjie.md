@@ -3,7 +3,8 @@ layout: post
 title:  "Spyon Kopje"
 date:   2020-05-12 13:00:00 +0100
 eventDate: 1980
-advertise: True
+published: True
+category: mitoc
 ---
 
 ‘Spyon Kopje’ the signpost indicated. I was already feeling tense. 
@@ -12,7 +13,7 @@ Our holiday started on the empty road from Mafiking to Johannesburgh.  Hardly a 
 
 I detected a different unwelcomeness at the Platinum Mine near Rustenberg. This time the hostile attitude was coming from African miners leaving the mine at end of their shift. 
 
-In parts of Johannesberg we felt no more welcome, but we had been warned. ‘If they demand your car; give it to them. That way they might not kill you.’
+In parts of Johannesberg we felt no more welcome, but we had been warned. ‘If they demand your car; give it to them. Then they might not kill you.’
 
 South Africa claims the highest murder rate in the world.
 

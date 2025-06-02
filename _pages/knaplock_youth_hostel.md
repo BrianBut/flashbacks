@@ -3,7 +3,8 @@ layout: post
 title:  "Knaplock Youth Hostel"
 date:   2020-05-02 20:00:00 +0100
 eventDate: 1951
-advertise: true
+published: true
+category: mitoc
 ---
 
 My first cycle touring holiday started at Weston Super Mare railway station. I remember the sulphurous smell and the hiss of the engine of as the guards van was opened to reveal my fathers black ‘Hercules’  bike and my small red ‘Raleigh’. We were to pedal distance of sixteen to twenty miles between youth hostels. I think we spent the first night at Crowcombe Youth Hostel. I was eight years old.

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <div class="w3-container">
     <h1><b>Essays</b></h1>
     {% assign sorted = site.pages | sort: 'eventDate' %}

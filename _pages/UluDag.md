@@ -3,7 +3,8 @@ layout: post
 title:  "Mount Olympus"
 date:   2020-04-29 09:00:00 +0100
 eventDate: 1980
-advertise: true
+published: true
+category: mitoc
 ---
 
 As an ambitious child I  dreamed I would one day climb Mount Olympus to spend a night in the home of the gods. In some way it was to be my ‘right of passage’.

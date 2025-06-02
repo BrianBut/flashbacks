@@ -22,6 +22,13 @@ layout: default
     	{% unless page.published %}
     	   <h2>Missing page.published</h2>
     	{% endunless %}	
+    	{% unless page.category == "mitoc" %}
+    		{% unless page.category == essay %}
+    			{% unless page.category == flashback %}
+    				<h2>Invalid page.category: {{ page.category }}</h2>
+    			{% endunless %}	
+    		{% endunless %}	
+    	{% endunless %}	
     </li>
     {% else %}
     <h2>No Pages</h3>

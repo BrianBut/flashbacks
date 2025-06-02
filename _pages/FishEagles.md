@@ -3,7 +3,8 @@ layout: post
 title:  "The Tree in the Garden"
 date:   2020-05-14 09:00:00 +0100
 eventDate: 1980
-advertise: true
+published: true
+category: mitoc
 ---
 
 There were Fish Eagles in the garden. Almost all the time. There could be more than a dozen, but sometimes two or three. Far above us in the leafy crown of the tall tree. 

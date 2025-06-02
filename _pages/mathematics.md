@@ -3,7 +3,7 @@ layout: post
 title:  "Mathematics Test"
 date:   2020-05-01 15:00:00 +0100
 eventDate: 2020
-advertise: false
+published: false
 category: essay
 ---
 <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>

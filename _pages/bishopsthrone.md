@@ -3,7 +3,7 @@ layout: post
 title:  "The Bishops Throne"
 eventDate: 1966
 published: true
-advertise: true
+category: mitoc
 ---
 
 The third term of my teacher training at Makerere was a posting in a school. Along with four other young men I was posted to Kako Senior Secondary School in the Teso district of Uganda. The five of us were accomodated in the house originally built by and for pioneer Anglican missionary Bishop Kitching.  It had seven bedrooms and a large communal dining rooms. With a high ceilings and a wide veranda all round the house it was wonderfully cool. 
