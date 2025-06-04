@@ -4,6 +4,7 @@ title:  "Covid Strategy"
 eventDate: 2020
 published: true
 advertise: false
+category: essays
 ---
 
 Government the press and individuals are making plans.

@@ -4,6 +4,8 @@ title:  "Christmas Tree Path"
 date:   2020-05-02 09:00:00 +0100
 eventDate: 2020
 advertise: true
+published: true
+category: mitoc
 ---
 
 On the second day of May in the year 2020 at the end of the first month in lockdown I tried to go up Christmas Tree Path. I have never seen anyone on that path, or in that part of Wapley woods. Only Muntjack.
