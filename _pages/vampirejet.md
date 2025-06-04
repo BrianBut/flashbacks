@@ -4,6 +4,8 @@ title:  "Vampire Jet"
 date:   2020-05-02 20:00:00 +0100
 eventDate: 1951
 advertise: true
+published: true
+category: mitoc
 ---
 
 I have always and often dreamed of vampire jets. In my dreams the vintage twin boomed jet aircraft flies at low level  down over the place where I live.

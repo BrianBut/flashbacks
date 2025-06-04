@@ -4,6 +4,8 @@ title:  "Catfish"
 date:   2020-04-28 13:00:00 +0100
 eventDate: 2000
 advertise: true
+published: true
+category: mitoc
 ---
 
 Before I went to South Africa I did not know that fish could make a noise. The catfish in the lakes behind Fort Hare were very noisy.

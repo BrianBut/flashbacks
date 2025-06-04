@@ -8,7 +8,7 @@ layout: default
  
   <ul class="w3-ul w3-hoverable">
     {% for page in sorted %}
-        {% if page.title and page.advertise and page.category == "essay" %}
+        {% if page.title and page.published and page.category == "essay" %}
         <li class="w3-large">
             <a href="{{ page.url }}">{{ page.title }} {{ page.eventDate }}</a>
         </li>

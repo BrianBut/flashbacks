@@ -5,6 +5,7 @@ date:   2020-05-21 16:00:00 +0100
 eventDate: 1995
 published: true
 parent: "extraterrestrial"
+category: "mitoc"
 ---
 
 In some places in Africa the grasshoppers start their cacophony at dusk. In other places the firefly come out. In Alice, the gunfire started. Once it is fully dark we would never venture off the University Campus. Sometimes we would hear of murders, gunfights in bars, or the 'taxi war' which would have accounted for some of the shots. It was generally believed it was drunks showing off or shooting at the stars. But we never found out what most of the shooting was about.

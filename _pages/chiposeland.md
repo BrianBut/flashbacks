@@ -4,6 +4,8 @@ title:  "Chipo's Eland"
 date:   2020-04-27 13:00:00 +0100
 eventDate: 1990
 advertise: true
+published: true
+category: mitoc
 ---
 
 When in Africa we like to seek out rock paintings. Often in remote countryside, far from any modern day villages they evoke all kinds of feelings. 

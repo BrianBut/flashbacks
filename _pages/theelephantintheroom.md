@@ -5,6 +5,7 @@ date: 2020-06-04
 eventDate: 2020
 published: true
 advertise: false
+category: essay
 ---
 
 With Covid planning, as with any other activity, there are difficult decisions to be made. It does not help that we avoid being explicit about the choices.
