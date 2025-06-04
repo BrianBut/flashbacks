@@ -5,6 +5,8 @@ date:   2020-05-22 07:00:00 +0100
 eventDate: 1995
 published: true
 parent: "extraterrestrial"
+advertise: True
+category: mitoc
 ---
 
 It seems that Dr. Morrison did want to talk about the bomb project. A lot of books have been written about the bomb project; but Dr Morrison said 'Dr Strangelove' was the most accurate.

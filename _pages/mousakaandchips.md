@@ -4,6 +4,7 @@ title:  'Mousaka and Chips'
 eventDate: 1962
 published: true
 advertise: true
+category: mitoc
 ---
 
 The University of Surrey was once Battersea College of Advanced Technology, located in Battersea Park Road. The first shop to the the left of the College facing the road, was a record shop. Alf's cafe was a few doors along. I and some of my friends preferred to have lunch here.

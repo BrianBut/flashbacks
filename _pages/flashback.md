@@ -29,7 +29,7 @@ The walk started with a steady climb crossing and recrossing a stream, but then 
 
 The rain did not stop for two whole days. On the third day we were able to continue walking in light rain. 
 
-That night we were able to camp higher up the mountainside. All night there was an animal or animals snuffling and moving around outside our tent. We did not open the tent door. Wild boor, warthog, porcupine, jackal, eland or other buck? -- the imagination worked overtime. I remembered the time in Tanganyika when I opened my tent door to find a troop of hyenas between me and the latrines. (I did not think there were hyenas in the Drakensberg National Park. In the morning when I went out I found porcupine quills. I'm glad I didn't open the tent door and get some of those quills in my face.
+That night we were able to camp higher up the mountainside. All night there was an animal or animals snuffling and moving around outside our tent. We did not open the tent door. Wild boor, warthog, porcupine, jackal, eland or other buck? -- the imagination worked overtime. I remembered the time in Tanganyika when I opened my tent door to find a troop of hyenas between me and the latrines. (I did not think there were hyenas in the Drakensberg National Park.) In the morning when I went out I found porcupine quills. I'm glad I didn't open the tent door and get some of those quills in my face.
 
 Onthe fourth day we took advantage of some of the many of the rock shelters we came across. 
 
@@ -41,7 +41,7 @@ We have been told that it was in this area the last of the Drakensburg bushman w
 
 On the fifth day we started to come down the hill: But across the trails the streams were still too high to cross. At each one we had to go upstream until we found a safer crossing point.
 
-A day later we got to the end of the trail, where there is a bridge across the stream leading to the park warden's office.. The bridge had been washed away two days before! There was nothing for but to go back up the hill to find a safe crossing point. I wrote a message to the park wardens, tied it to a stone, and threw it across the river to some other visitors, as we had only checked out for a three day walk.
+A day later we got to the end of the trail, where there is a bridge across the stream leading to the park warden's office. The bridge had been washed away two days before! There was nothing for but to go back up the hill to find a safe crossing point. I wrote a message to the park wardens, tied it to a stone, and threw it across the river to some other visitors, as we had only checked out for a three day walk.
 
 We had to camp out for another night. We were getting low on food.
 

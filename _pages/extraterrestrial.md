@@ -4,6 +4,7 @@ title:  "Extraterrestrial"
 eventDate: 1995
 published: true
 advertise: true
+category: mitoc
 parent:    true
 ---
 
