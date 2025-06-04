@@ -2,9 +2,11 @@
 layout:    post
 title:     Luwum
 date:      2020-05-15 09:00:00 +0100
-private:   true
+published:   true
 eventDate: 1977
-advertise: false
+advertise: true
+category: mitoc
+
 ---
 
 We were new to Namasagali college, and as had yet to get our house fully organised. Father Grimes had invited us to dinner in his house. After I stayed for a game of chess.

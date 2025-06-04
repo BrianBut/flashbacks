@@ -4,6 +4,8 @@ title:  "How I Came to Dislike Spitting Cobras"
 date:   2020-05-14 09:00:00 +0100
 eventDate: 1980
 advertise: true
+published: true
+category: mitoc
 ---
 
 For much of that year the only food you could buy in the shops was sugar. Sometime villagers earned money by bringing 'English potatoes', yams and sweet potatoes, bananas and matoke (plantain) and sometimes a few eggs. In the garden, at the right time of year there were lemons, papaya and guavas. Every Wednesday morning, in the bottom corner of the school field, a cow or ox was slaughtered and hacked into small portions. Our cook would buy us a portion and return with it wrapped in a banana leaf. There was an irregular supply of milk from the school cows. And maize flour.

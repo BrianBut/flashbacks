@@ -5,6 +5,7 @@ date:   2020-05-22 12:00:00 +0100
 eventDate: 1990
 published: true
 advertise: true
+category: mitoc
 ---
 
 I had just started my evening meal there was a knock at my door. A nurse from the hospital at our mission was at the door. She was holding a very grubby polythene bag. Originally white it was well smeared with blood and mud. From the outside it looked as if it might contain offal, or worse.  

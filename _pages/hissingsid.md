@@ -5,6 +5,7 @@ date:   2020-05-19 12:00:00 +0100
 eventDate: 1990
 published: true
 advertise: true
+category: mitoc
 ---
 
 We rather liked Hissing Sid. He was a snake; a four foot long olive brown snake about as fat as a garden hose. Not a cobra as he there was no widening around his throat. Not an adder as he didn't have a 'V' shaped head. He was some sort of a grass snake; I forget which, but I believed him to be harmless.

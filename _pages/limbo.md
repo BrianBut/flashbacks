@@ -4,6 +4,8 @@ title:  "Limbo"
 date:   2020-05-20 12:00:00 +0100
 eventDate: 1985
 advertise: True
+category: mitoc
+published: true
 ---
 
 Limbo was a cow. On our first morning in our new house we looked outside and there she was munching the grass just outside our kitchen window.

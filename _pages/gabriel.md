@@ -5,6 +5,7 @@ date:   2020-05-19 19:00:00 +0100
 eventDate: 1995
 published: true
 parent: extraterrestrial
+category: mitoc
 childno: 10
 ---
 

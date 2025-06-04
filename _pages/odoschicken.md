@@ -5,6 +5,8 @@ date:   2020-05-15 18:00:00 +0100
 eventDate: 1979
 publish: true
 advertise: true
+category: mitoc
+published: true
 ---
 
 *This an attempt at a short story. It is partly true but I have imagined scenes that I did not see first hand*
