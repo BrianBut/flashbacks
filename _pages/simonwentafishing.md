@@ -4,6 +4,8 @@ title:  "... Simon went a Fishing, for to catch a ..."
 date:   2020-07-18 09:00:00 +0100
 eventDate: 1979
 advertise: True
+published: True
+category: mitoc
 ---
 
 Simon periodically gets a fishing craze. His rod is a stick about seven foot long which he keeps beside the back door. His line is a piece of stout cord which is tied to the stick at one end and a hook to the other.

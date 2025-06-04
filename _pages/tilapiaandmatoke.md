@@ -4,7 +4,7 @@ title:  "Tilapia and Matoke"
 date:   2020-07-13 13:00:00 +0100
 eventDate: 1967
 advertise: True
-publish: True
+published: True
 category: mitoc
 ---
 
