@@ -15,7 +15,7 @@ When I saw it, my gut clenched. I was taken back to the year 1961 when, with my 
 
 Why did I react so strongly to that picture?
 
-That night I remembered: -- Colenso (or somewhere near), it was there I had seen the crosses pictured in Trump's 'evidence'. To me they come over as more a temple to hatred, than a shrine to rememberance. The Boers hate the British, or those of British descent. Those of British descent mistrust the Boers. In this part of the world most Zulus seem to hate both.
+That night I remembered: -- Colenso (or somewhere near), it was there I had seen the crosses pictured in Trump's 'evidence'. They come over as more a temple to hatred, than a shrine to rememberance. The Boers hate the British, or those of British descent, apparently because of events in the 19th century. Those of British descent mistrust the Boers. In this part of the world most Zulus seem to hate both.
 
 Colenso, Spion Kop (Spyon Kopje), Ladysmith: the names and dates inscribed on the dusty regimental colours which hung above the pupils at school services in Bath Abbey. Those colours were removed before I left school. Those places are near here in this part of Kwa Zulu Natal. Here we still remember. The Zulus remember the loss of their land and cattle.
 
@@ -38,3 +38,7 @@ Those rock shelters were remarkable because so many of them contain Bushman art.
 It is a shame that so many of these paintings have been damaged by wood smoke from wood fires in the shelters.
 
 We have been told that it was in this area the last of the Drakensburg bushman was shot as vermin in the early 20th century. He was carrying pigments and painting sticks.
+
+On the fifth day we started to come down the hill: But across the trails the streams were still too high to cross. At each one we had to go upstream until we found a safer crossing point.
+
+A day later we got to the end of the trail, where there is a bridge across the stream. The bridge had been washed away two days before! There was nothing for but to go back up the hill to find a safe crossing point.
