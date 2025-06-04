@@ -4,12 +4,14 @@ title:  "Stars of Botsalano"
 date:   2020-05-01 09:00:00 +0100
 eventDate: 2000
 advertise: true
+published: true
+category: mitoc
 ---
 
 Botsalano game reserve lies alongside the road between Mafeking and Gabarone, very close to the border between South Africa and Botswana. 
 It has a delightful campsite quite close to the gate, from where you can walk a little through the sandy dry savannah grass. The meerkats enjoy watching you.
 
-At night the stars reach down to the ground in all directions. The constellation of Scorpio holds the brilliantly red star Aldebaran. The striated creamy white of the milky way stretches from horizon to horizon. The dark blots of the two Magellanic clouds are clearly visible to the naked eye. Frequent manmade satellites twinkle their way across the sky until they move into the earths shadow.
+At night the stars reach down to the ground in all directions. There are no other lights. The constellation of Scorpio holds the brilliantly red star Aldebaran. The striated creamy white of the milky way stretches from horizon to horizon. The dark blots of the two Magellanic clouds are clearly visible to the naked eye. Frequent manmade satellites twinkle their way across the sky until they move into the earths shadow.
 
 In quiet peacefulness on a canvas chair beside our tent we sit waiting for the next few shooting stars, mostly streaking across the sky, but a few slower bright white flares. There are always shooting stars to be seen here.
 
