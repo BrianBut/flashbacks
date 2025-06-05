@@ -5,8 +5,7 @@ date:   2020-05-19 19:00:00 +0100
 eventDate: 1995
 published: true
 parent: extraterrestrial
-category: mitoc
-childno: 10
+category: supplement
 ---
 
 Although I have worked on Christian Missions for about ten years I am not a Christian. In fact I feel more sympathy with paganism than I do Christianity, but I cannot believe in any form of God.

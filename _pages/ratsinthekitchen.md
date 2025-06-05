@@ -4,7 +4,7 @@ title:  "Rats in the Kitchen"
 date:   2020-05-19 08:00:00 +0100
 eventDate: 1995
 published: true
-category: mitoc
+category: supplement
 ---
 
 Carol is one of the most easy going people I know. Sent by the Dutch VSO to Fort Hare as a mathematics lecturer she was accomodated in a very big old bungalow used as a guest house by the University. The old bungalow was one of the few buildings on campus accessible by wheelchair. So this is where the university sent professor Philp Morisson and his wife Phyllis. 

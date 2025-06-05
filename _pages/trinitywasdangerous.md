@@ -4,7 +4,7 @@ title:  "Trinity Was Dangerous"
 date:   2020-05-21 16:00:00 +0100
 eventDate: 1995
 published: true
-category: mitoc
+category: supplement
 parent: extraterrestrial
 ---
 
