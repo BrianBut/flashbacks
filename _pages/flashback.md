@@ -21,7 +21,7 @@ Colenso, Spion Kop (Spyon Kopje), Ladysmith: the names and dates inscribed on th
 
 South Africa had, and still has, very high levels of murder and violent crime. 
 
-En route to the area we visited Durban for the first and last time; staying overnight in a hotel. There was more gunfire than in Mafikeng, but less than in Alice. In the morning it became obvious the the hotel was also a brothel. Feeling uncomfortable we drove north to walk the Drakensburg trails. The landscape and flora are a relief.
+En route to the area Ann and I visited Durban for the first and last time; staying overnight in a hotel. There was more gunfire than in Mafikeng, but less than in Alice. In the morning it became obvious the the hotel was also a brothel. Feeling uncomfortable we drove north to walk the Drakensburg trails. The landscape and flora are a relief.
 
 The two of us expected a three day walk, but, fortunately, as things turned out, carried enough food for a week as we thought we might be delayed by flash flooding of the streams we had to cross. 
 
@@ -35,7 +35,7 @@ Onthe fourth day we took advantage of some of the many of the rock shelters we c
 
 Those rock shelters were remarkable because so many of them contain Bushman art. You enter a rock cave or crawl under a rock shelter which looks entirely devoid of anything but rock. But then when your eyes have adapted the animals, and sometimes men appear. The buck are wonderfully clear and accurately drawn.
 
-It is a shame that so many of these paintings have been damaged by wood smoke from wood fires in the shelters. The only good thing is that rock (or cave) paintings can still be found as far north as northen Zimbabwe.
+It is a shame that so many of these paintings have been damaged by wood smoke from wood fires in the shelters. The only good thing is that rock (or cave) paintings can still be found as far north as northern Zimbabwe.
 
 We have been told that it was in this area the last of the Drakensburg bushman was shot as vermin in the early 20th century. He was carrying pigments and painting sticks.
 
