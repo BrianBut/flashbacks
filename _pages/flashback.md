@@ -54,3 +54,5 @@ In the low sunlight of the morning I could see into a rockshelter by our campsit
 We were finally able to cross the stream and walk back to the camp. The Park Wardens had received our note, and told us how excited the little boy who found it was. There we still twenty visitors who had not signed out. We had see no-one all week.
 
 The next day we started out on the long journey home to Mafikeng. On the way we chose to pass by Spyon Kopje (Spion Kop), Colenso and Ladysmith. 
+
+An hour out from the Park I was driving along an empty dirt road when I saw a large boulder rolling into my path. I was able to avoid it, and continue without slowing down. I was aware that in rural South Africa people roll things in the road in the hope of causing an accident. They can then steal the contents of the car.
