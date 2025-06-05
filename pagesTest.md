@@ -23,9 +23,11 @@ layout: default
     	   <h2>Missing page.published</h2>
     	{% endunless %}	
     	{% unless page.category == "mitoc" %}
-    		{% unless page.category == essay %}
-    			{% unless page.category == flashback %}
-    				<h2>Invalid page.category: {{ page.category }}</h2>
+    		{% unless page.category == "essay" %}
+    			{% unless page.category == "flashback" %}
+    				{% unless page.category == "supplement" %}
+    					<h2>Invalid page.category: {{ page.category }}</h2>
+    				{% endunless %}
     			{% endunless %}	
     		{% endunless %}	
     	{% endunless %}	

@@ -4,7 +4,7 @@ title:  "Flashback?"
 eventDate: 21st May 2025
 published: true
 advertise: true
-category: flashbacks
+category: flashback
 ---
 
 Two allegedly corrupt politicians. The president of the United States, Donald Trump, confronted Cyril Ramaphosa with "evidence" that South African white farmers were being forced out of South Africa. The evidence consisted of pages from social media. 

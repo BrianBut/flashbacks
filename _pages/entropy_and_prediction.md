@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Entropy and Prediction"
-date: 2023-02-10 07:00:00 +0100
+eventDate: 2023-02-10 07:00:00 +0100
 published: true
 advertise: true
 usemathjax: true
-category: essays
+category: essay
 ---
 
 “The Moving Finger writes; and, having writ,
