@@ -5,17 +5,32 @@
 
   <body> 
     {% include header.html %}
-    <nav class="w3-bar w3-border w3-light-grey">
-    	<a href="/" class="w3-bar-item w3-button"><b>Home</b></a>
-        <a href="/flashbacks" class="w3-bar-item w3-button"><b>Flashbacks</b></a>
-        <a href="/essays" class="w3-bar-item w3-button"><b>Essays</b></a>
-        <a href="/mitoc" class="w3-bar-item w3-button"><b>MITOC</b></a>
-        <!--<a href="/birds.html" class="w3-bar-item w3-button"><b>Birds of Debre Birhan</b></a>-->
-        <!--<a href="pagesTest.html" class="w3-bar-item w3-button"><b>Test Pages</b></a>-->
-        <a href="/about.html" class="w3-bar-item w3-button w3-right"><b>About</b></a>
-    </nav>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" href="/index.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/flashbacks">Flashbacks</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/mitoc">MITOC</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/essays">Essays</a>
+        </li>
+      </ul>
+      
+    </div>
+  </div>
+</nav>
     
-    <div class="w3-container">
+    <div class="container">
         {{ content }}
     </div>
     {% include footer.html %}

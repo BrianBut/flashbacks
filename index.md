@@ -4,8 +4,8 @@ layout: default
 
 <!-- The work here is done by the navigation bar, which is provided by default.html -->
 
-<div class="w3-container">
-    <h1><b>Writings by Brian Butcher</b></h1>
+<div class="container">
+    <title><b>Writings by Brian Butcher</b></title>
     
 <!-- TODO: Complete this as a homepage -->
 When we were into the third week of coronavirus lockdown experts were reporting that the lockdown for those over 70 could last for a year. I wouldn't survive that without becoming depressed. 

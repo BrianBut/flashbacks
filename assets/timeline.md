@@ -20,6 +20,7 @@ advertise: true
 1981     'Save the Children' School for Vietnamese Refugee Children, Bingley.  
 1982     Bath  
          Sailing around Britain  
+1983     Bodmin Moor
          Izmir, Turkey  
 1995     VSO at Alice, South Africa  
 1997     Mafikeng, South Africa  
