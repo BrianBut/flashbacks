@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Flashback?"
+title:  Flashback?
 eventDate: 21st May 2025
 published: true
 advertise: true
@@ -45,4 +45,12 @@ A day later we got to the end of the trail, where there is a bridge across the s
 
 We had to camp out for another night. We were getting low on food.
 
-The next day we still couldn't cross the stream. It was raining again. We camped for another night.
+The next day we still couldn't cross the stream. It was raining again. We camped for another night. It continued raining. A herd of eland wandered up the valley. We found more rock paintings at the base of a cliff. One was of an eland. 
+
+We had to camp for another night. The flattest ground was at the foot of the cliff with the rock shelter with the eland painting in it. It also appeared to be used by baboons. Having run out of fuel for our cooker we wanted to light a fire, so we moved fifty yards along the cliff where the smoke would be well away from the rock painting, where we could pitch our tent.
+
+In the low sunlight of the morning I could see into a rockshelter by our campsite. The entrance was less than a foot high. In the shelter was a realistic painting of a gazelle. It confirmed our view that there are many more shelters in the Drakesberg National Park with paintings in them than the tourist guides suggest.
+
+We were finally able to cross the stream and walk back to the camp. The Park Wardens had received our note, and told us how excited the little boy who found it was. There we still twenty visitors who had not signed out. We had see no-one all week.
+
+The next day we started out on the long journey home to Mafikeng. On the way we chose to pass by Spyon Kopje (Spion Kop), Colenso and Ladysmith. 
