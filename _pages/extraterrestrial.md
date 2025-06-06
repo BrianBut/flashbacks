@@ -20,7 +20,7 @@ I helped Phyllis send an email. and that afternoon get a reply. I saw enough of 
 
 I told Phyllis I knew nothing about the lecture. She tutted, and told when and where it was to held. "You are welcome to come".
 
-"It was Phil and Cocconi's paper that started it", said Phyllis. I nodded. "They discovered the 21cm window". Now I know enough about physics to know that the 21cm. window describes the wavelength of radiowaves which don't get absorbed by the earths atmosphere or interstellar gases. It is this frequency which will be used between planets. 
+"It was Phil and Cocconi's paper that started it", said Phyllis. I nodded. "They discovered the 21cm window". I know enough about physics to know that the 21cm. window describes the wavelength of radiowaves which don't get absorbed by the earths atmosphere or interstellar gases. It is this frequency which will be used between planets. 
 
 I was intrigued enough to tell everyone I met about the lecture. One of them came; no one else. He and I were the only people present. Not one member of the physics department, nor of the maths department. No Africans(3), no Afrikaaners, just me, a British volunteer and Axel, a white South African geography lecturer of German settler stock. 
 
@@ -49,5 +49,5 @@ I AM HERE ABANDONING THIS STORY. THERE ARE TOO MANY STRANDS. SOME STRANDS ARE DI
 
 3. *I came across this professor. An Afrikaaner, he cut the coax cable supplying the computer science department in order to speed up the maths department computers. He was in favour of a Boer 'homeland', independent of Mandela's South Africa. I believe it more likely he shunned Phil out of anti-English sentiment.*
 
-4.  *It could be that African students and staff did not come to Dr Morrison's Lecture because disabled or sick people are kept away the public eye at home. Phil had developed Polio in early childhood.*
+4.  *It could be that African students and staff did not come to Dr Morrison's Lecture because disabled or sick people are kept away the public eye at home. Phil used a wheelchair as he had developed Polio in early childhood.*
 

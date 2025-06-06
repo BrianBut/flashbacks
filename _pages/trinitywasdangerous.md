@@ -21,3 +21,5 @@ Conversation closed. I could not find it easy to talk to a man who had forty one
 I avoided the subject.
 
 I read some years later that Phil had travelled in the back of a car with the enriched uranium core of Trinity to the Los Alamos test site.
+
+1. *Some years later I am in some confusion about this. Trinity used plutonium and not uranium. The gun type mechanism which worried Phil used a 'pull through wire' as a safety lock, and can only be used with plutonium*.

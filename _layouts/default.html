@@ -4,7 +4,9 @@
   {% include head.html %}
 
   <body> 
+  <div class="container">
     {% include header.html %}
+    
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -13,24 +15,24 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" href="/index.html">Home</a>
+          <a class="nav-link active text-bg-info p-2" href="/index.html">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/flashbacks">Flashbacks</a>
+          <a class="nav-link active text-bg-info p-2" href="/flashbacks">Flashbacks</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/mitoc">MITOC</a>
+          <a class="nav-link active text-bg-info p-2" href="/mitoc">MITOC</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/essays">Essays</a>
+          <a class="nav-link active text-bg-info p-2" href="/essays">Essays</a>
         </li>
       </ul>
       
     </div>
   </div>
 </nav>
-    
-    <div class="container">
+</div>
+    <div class="container"> 
         {{ content }}
     </div>
     {% include footer.html %}
